@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "evangelion",
+    "name": "Evangelion",
+    "description": "Evangelion more like Europa 2.0",
+    "version": "0.0.1",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "InnardsTheGod",
+      "zooom69",
+      "iJese"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

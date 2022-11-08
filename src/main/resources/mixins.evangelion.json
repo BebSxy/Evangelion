@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "minVersion": "0.7.4",
+  "package": "dev.evangelion.client.mixins.impl",
+  "refmap": "mixins.evangelion.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinNetworkManager"
+  ],
+  "client": [
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiIngame",
+    "MixinEntityLivingBase",
+    "MixinItemRenderer",
+    "MixinLayerArmorBase",
+    "MixinMapItemRenderer",
+    "MixinPlayerControllerMP",
+    "MixinRenderItem",
+    "MixinRenderPlayer",
+    "MixinRenderEnderCrystal",
+    "MixinRenderLivingBase",
+    "MixinEntity",
+    "MixinWorld",
+    "MixinGuiPlayerTabOverlay",
+    "IEntityRenderer",
+    "MixinGuiNewChat",
+    "MixinBlockSoulSand",
+    "MixinMinecraft"
+  ]
+}

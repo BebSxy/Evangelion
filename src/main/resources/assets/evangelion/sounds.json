@@ -1,0 +1,66 @@
+{
+  "double_kill": {
+    "category" : "player",
+    "sounds": [{
+      "name": "evangelion:double_kill",
+      "stream": false
+    }
+    ]
+  },
+  "triple_kill": {
+    "category" : "player",
+    "sounds": [{
+      "name": "evangelion:triple_kill",
+      "stream": false
+    }
+    ]
+  },
+  "over_kill": {
+    "category" : "player",
+    "sounds": [{
+      "name": "evangelion:over_kill",
+      "stream": false
+    }
+    ]
+  },
+  "kill_tacular": {
+    "category" : "player",
+    "sounds": [{
+      "name": "evangelion:kill_tacular",
+      "stream": false
+    }
+    ]
+  },
+  "killamonjaro": {
+    "category" : "player",
+    "sounds": [{
+      "name": "evangelion:killamonjaro",
+      "stream": false
+    }
+    ]
+  },
+  "arena_switch": {
+    "category" : "player",
+    "sounds": [{
+      "name": "evangelion:arena_switch",
+      "stream": false
+    }
+    ]
+  },
+  "cod_hitsound": {
+    "category" : "player",
+    "sounds": [{
+      "name": "evangelion:cod_hitsound",
+      "stream": false
+    }
+    ]
+  },
+  "metal_impact": {
+    "category" : "player",
+    "sounds": [{
+      "name": "evangelion:metal_impact",
+      "stream": false
+    }
+    ]
+  }
+}
